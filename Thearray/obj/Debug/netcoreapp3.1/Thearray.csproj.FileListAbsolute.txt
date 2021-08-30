@@ -1,0 +1,13 @@
+C:\Msc\MSc in Computer Science lectures\Algorithms\Thearray\Thearray\bin\Debug\netcoreapp3.1\Thearray.exe
+C:\Msc\MSc in Computer Science lectures\Algorithms\Thearray\Thearray\bin\Debug\netcoreapp3.1\Thearray.deps.json
+C:\Msc\MSc in Computer Science lectures\Algorithms\Thearray\Thearray\bin\Debug\netcoreapp3.1\Thearray.runtimeconfig.json
+C:\Msc\MSc in Computer Science lectures\Algorithms\Thearray\Thearray\bin\Debug\netcoreapp3.1\Thearray.runtimeconfig.dev.json
+C:\Msc\MSc in Computer Science lectures\Algorithms\Thearray\Thearray\bin\Debug\netcoreapp3.1\Thearray.dll
+C:\Msc\MSc in Computer Science lectures\Algorithms\Thearray\Thearray\bin\Debug\netcoreapp3.1\Thearray.pdb
+C:\Msc\MSc in Computer Science lectures\Algorithms\Thearray\Thearray\obj\Debug\netcoreapp3.1\Thearray.csprojAssemblyReference.cache
+C:\Msc\MSc in Computer Science lectures\Algorithms\Thearray\Thearray\obj\Debug\netcoreapp3.1\Thearray.AssemblyInfoInputs.cache
+C:\Msc\MSc in Computer Science lectures\Algorithms\Thearray\Thearray\obj\Debug\netcoreapp3.1\Thearray.AssemblyInfo.cs
+C:\Msc\MSc in Computer Science lectures\Algorithms\Thearray\Thearray\obj\Debug\netcoreapp3.1\Thearray.csproj.CoreCompileInputs.cache
+C:\Msc\MSc in Computer Science lectures\Algorithms\Thearray\Thearray\obj\Debug\netcoreapp3.1\Thearray.dll
+C:\Msc\MSc in Computer Science lectures\Algorithms\Thearray\Thearray\obj\Debug\netcoreapp3.1\Thearray.pdb
+C:\Msc\MSc in Computer Science lectures\Algorithms\Thearray\Thearray\obj\Debug\netcoreapp3.1\Thearray.genruntimeconfig.cache
